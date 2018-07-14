@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-    <h1>space</h1>
+  <div class="search">
+    
   </div>
 </template>
 
@@ -10,3 +10,7 @@ export default {
   name: 'home',
 };
 </script>
+
+<style lang="scss">
+
+</style>
