@@ -49,6 +49,12 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+}
 .wrapper {
   margin: 0 auto;
   display: flex;
